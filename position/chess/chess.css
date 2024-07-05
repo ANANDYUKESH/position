@@ -1,0 +1,28 @@
+.white{
+    width: 80px;
+    height: 70px;
+    background-color: white;
+    /* border-collapse: 2px; */
+}
+.black{
+    width: 80px;
+    height: 7;
+    background-color: black;
+    /* border-collapse: 2px; */
+}
+table{
+    border: 2px solid black;
+    margin-left: 240px;
+    margin-top:110px ;
+    /* border-collapse: 2px; */
+}
+table,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+ }
+ body{
+    background-color: gray;
+ }
+ h1{
+    font-size: 42px;
+ }
